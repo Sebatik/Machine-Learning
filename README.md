@@ -5,7 +5,7 @@ Developing a deep learning model for Batik Pattern Image classification using Te
 We will develop a deep learning model using the tensorflow library that allows users to identify the type of batik pattern of the clothes they have by sending a photo of the clothes to our application and then the photo will be classified based on the batik pattern that matches the clothes. Users will get information on what batik pattern on their clothes such as pattern  name,  pattern origin, history.
 
 
-## Dataset
+## Dataset Information
 The data set used in the development of this Deep Learning model consists of images that display Indonesian batik patterns and are organized into 15 categories.
 15 Batik Category :
 - DKI Ondel - Ondel
@@ -23,7 +23,7 @@ The data set used in the development of this Deep Learning model consists of ima
 - Yogyakarta Kawung
 - Sulawesi Selatan Lontara
 - SumateraUtara Boraspati
-Dataset Link
+### Dataset Link
 https://drive.google.com/drive/folders/1C-U_XrEXcy3_MmfSbTXyiDjWlRDQGM4I?usp=sharing
 
 ## Feature
