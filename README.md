@@ -30,7 +30,7 @@ The data set used in the development of this Deep Learning model consists of ima
 ### Dataset Link
 https://drive.google.com/drive/folders/1C-U_XrEXcy3_MmfSbTXyiDjWlRDQGM4I?usp=sharing
 
-## Feature
+## What Inside In Notebook?
 - EDA
 - Data Augmentation
 - EffecientNetB3 (Transfer Learning)
