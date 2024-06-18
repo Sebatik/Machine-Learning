@@ -54,6 +54,20 @@ https://drive.google.com/drive/folders/1C-U_XrEXcy3_MmfSbTXyiDjWlRDQGM4I?usp=sha
 - Convert model to h5 & Json format
 
 ## Results
+### EffecientNetB3
+The EffecientNetB3 model reached a result Val_accuracy of 96% on the test dataset. The training and validation loss/accuracy plots are found below.
+![image](https://github.com/Sebatik/Machine-Learning/assets/108218931/8903b00f-efb2-4d1d-91ad-e810f8d255f9)
+
+### InceptionV3
+The InceptionV3 model reached a result Val_accuracy of 86% on the test dataset. The training and validation loss/accuracy plots are found below.
+![image](https://github.com/Sebatik/Machine-Learning/assets/108218931/307e9f38-a554-417a-af40-27ae089705a9)
+
+### Xception
+The Xception model reached a result Val_accuracy of 88% on the test dataset. The training and validation loss/accuracy plots are found below.
+![image](https://github.com/Sebatik/Machine-Learning/assets/108218931/c12cff0a-a164-4869-a5bf-d19bfa81ef86)
+
+
+
 
 
 
