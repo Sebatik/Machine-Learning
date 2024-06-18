@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # Batik Image Classification
 Developing a deep learning model for Batik Pattern Image classification using Tensorflow: Creating a Convolutional Neural Network (CNN) with transfer learnings model to Classify 15 Batik pattern around indondonesia Using Tensorflow.
 
