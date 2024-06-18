@@ -1,6 +1,6 @@
-![image](https://github.com/Sebatik/Machine-Learning/assets/108218931/7fff1820-5995-4686-82a8-2a13e0f0e336)
-
-
+<div align="center">
+	<img src="https://github.com/Sebatik/Machine-Learning/assets/108218931/7fff1820-5995-4686-82a8-2a13e0f0e336">
+</div>
 
 # Batik Image Classification
 Developing a deep learning model for Batik Pattern Image classification using Tensorflow: Creating a Convolutional Neural Network (CNN) with transfer learnings model to Classify 15 Batik pattern around indondonesia Using Tensorflow.
