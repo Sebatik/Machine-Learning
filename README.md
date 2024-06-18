@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/Sebatik/Machine-Learning/assets/108218931/7fff1820-5995-4686-82a8-2a13e0f0e336)
+
 
 
 # Batik Image Classification
