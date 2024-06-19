@@ -41,7 +41,6 @@ https://drive.google.com/drive/folders/1C-U_XrEXcy3_MmfSbTXyiDjWlRDQGM4I?usp=sha
 - os
 - Matplothlib
 - Numpy
-- Seaborn 
 - Keras
 - Tensorflow
 - Efficientnet
