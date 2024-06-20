@@ -1,3 +1,3 @@
 ## Model EffecientNetB3 99% ACC & 96% VAL
-### Json
-https://drive.google.com/file/d/1zbuHFuJntPEGoFWntu7GWW4k7JNeC0CW/view?usp=drive_link
+### Json & h5
+[link](https://drive.google.com/file/d/1VOoTE70YncGCoyNInvzxyBh6jDKa4beN/view?usp=sharing)
